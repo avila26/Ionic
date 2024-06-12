@@ -1,0 +1,7 @@
+{
+  "name": "simulacro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
